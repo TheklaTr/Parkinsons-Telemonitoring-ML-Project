@@ -5,9 +5,9 @@
 This repository contains a machine learning project for predicting Parkinson's disease symptoms
 based on biomedical voice measurements. This is done as a part of the course: CS-C3240 - Machine Learning D in Aalto University.
 
-{::comment}
-More information about the project can be found in the project report, which is included.
-{:/comment}
+
+<!-- More information about the project can be found in the project report, which is included. -->
+
 
 # Code:
 
